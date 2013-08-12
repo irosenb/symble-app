@@ -1,0 +1,4 @@
+Logfile initialized
+[INFO] logfile = /Users/isaac/Desktop/Titanium Studio/NounQuiz/build.log
+[DEBUG] /Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/android/builder.py simulator Noun Quiz /Users/isaac/Downloads/android-sdk-macosx /Users/isaac/Desktop/Titanium Studio/NounQuiz com.umbrelephant.NounQuiz 2 HVGA 
+[INFO] Building Noun Quiz for Android ... one moment
